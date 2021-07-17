@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "YOshi's birthday bash...",
+      "details": "lorem sdfjskdf sadkjf sdkjsd ajsdfk askdjfks f aksdjfksd f asdjfksjdfk skfdjaskdfj kasf kasjdfkas dfk asdfjkasfj asdf ",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "asdfsadf",
+      "details": "asdfsadf",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "sdfsad",
+      "details": "asdfsdfasdsadasdfsadf",
+      "category": "todos",
+      "id": 9
+    }
+  ]
+}

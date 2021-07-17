@@ -1,0 +1,22 @@
+{
+    "notes":[
+        {
+            "title":"YOshi's birthday bash...",
+            "details":"lorem sdfjskdf sadkjf sdkjsd ajsdfk askdjfks f aksdjfksd f asdjfksjdfk skfdjaskdfj kasf kasjdfkas dfk asdfjkasfj asdf ",
+            "category":"reminders",
+            "id":1
+        },
+        {
+            "title":"YOshi's birthday bash...",
+            "details":"lorem sdfjskdf sadkjf sdkjsd ajsdfk askdjfks f aksdjfksd f asdjfksjdfk skfdjaskdfj kasf kasjdfkas dfk asdfjkasfj asdf ",
+            "category":"work",
+            "id":2
+        },
+        {
+            "title":"YOshi's birthday bash...",
+            "details":"lorem sdfjskdf sadkjf sdkjsd ajsdfk askdjfks f aksdjfksd f asdjfksjdfk skfdjaskdfj kasf kasjdfkas dfk asdfjkasfj asdf ",
+            "category":"todos",
+            "id":3
+        }
+    ]
+}
